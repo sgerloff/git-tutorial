@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-My first git repo is amazing
-=======
 My first git repo
 
 We have created a new branch
->>>>>>> new_branch
+
