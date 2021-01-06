@@ -1,6 +1,7 @@
 My second git repo
 
-We have created a new
+We have a new branch
 
 This line should be empty!!!! No text here!
 
+Herpiderp!
